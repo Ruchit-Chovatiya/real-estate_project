@@ -1,8 +1,8 @@
 # real-estate_project
-"A machine learning project to predict property prices in Gurgaon using Linear Regression. Built as part of Code With Harry's Data Science course."
+"A machine learning project to predict property prices in Gurgaon using Linear Regression. Built as part of Data Science journey."
 # 🏡 Gurgaon Real Estate Price Prediction
 
-This project uses machine learning to predict property prices in **Gurgaon**, India based on features like location, area (sqft), number of bedrooms (BHK), and ocean_proximity. Built as part of the **Data Science Course by Code With Harry**, this project demonstrates data preprocessing, model training using **Linear Regression**, **DecisionTreeRegressor**, **RandomForestRegressor** and a custom prediction function.
+This project uses machine learning to predict property prices in **Gurgaon**, India based on features like location, area (sqft), number of bedrooms (BHK), and ocean_proximity. Built as part of the **Data Science journey**, this project demonstrates data preprocessing, model training using **Linear Regression**, **DecisionTreeRegressor**, **RandomForestRegressor** and a custom prediction function.
 
 ---
 
